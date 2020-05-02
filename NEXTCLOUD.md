@@ -1,0 +1,3 @@
+* Apps installées
+
+- Collabora
