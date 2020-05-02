@@ -1,3 +1,4 @@
-* Apps installées
+# Apps installées
 
 - Collabora
+- Discourse SSO
