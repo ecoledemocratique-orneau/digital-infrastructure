@@ -1,3 +1,12 @@
+# Hébergement
+
+DataCenterLight.ch: serveur propulsé par 100% d'énergie renouvelable.
+
+- Ubuntu 18.04
+- 1 CPU, 4 Go RAM, 40 Go HD
+
+# Configuration
+
 * Créer les records DNS requis
 
 ```
